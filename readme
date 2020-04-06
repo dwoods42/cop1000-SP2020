@@ -1,0 +1,6 @@
+def collectFoodandWater():
+  decision = input('Do you choose to find food and water? Or continue?')
+  if decision == 'choose find food or water':
+     print('You recieved full bar of stamina.')
+  return decision 
+  
